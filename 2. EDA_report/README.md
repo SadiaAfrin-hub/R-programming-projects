@@ -36,6 +36,3 @@ The CSV file is the source dataset used for the analysis.
 
 ## Output
 The folder contains 18 saved output images from the project.
-
-## Important Note
-The `EDA_report.R` file supplied with the project was empty at the time this README was prepared. Add the R analysis code used to generate the output images before describing the project as fully reproducible. Update this README if the analysis scope, variables, or methods change.
